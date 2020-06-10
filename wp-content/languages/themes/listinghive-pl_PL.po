@@ -1,0 +1,103 @@
+# Translation of Themes - ListingHive in Polish
+# This file is distributed under the same license as the Themes - ListingHive package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-22 13:29:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - ListingHive\n"
+
+#. Description of the theme
+msgid "A multipurpose WordPress theme that allows you to build any type of directory and listing websites. Whether it’s a business directory, job board, real estate, classifieds or basically any listing website — ListingHive is a great choice for it."
+msgstr "Motyw WordPressa dla różnych projektów, który pozwala na tworzenie dowolnego rodzaju katalogów i ogłoszeń. Niezależnie, czy jest to katalog biznesowy, strona z ogłoszeniami pracy, nieruchomości, innymi, bądź dowolnego innego rodzaju listing — ListingHive będzie doskonałym wyborem."
+
+#. Theme Name of the theme
+msgid "ListingHive"
+msgstr "ListingHive"
+
+#: searchform.php:2
+msgctxt "noun"
+msgid "Search"
+msgstr "Wyszukiwanie"
+
+#: templates/post/post-details.php:3
+msgctxt "post"
+msgid "Pinned"
+msgstr "Przyklejone"
+
+#: comments.php:3
+msgid "Comments"
+msgstr "Komentarze"
+
+#: comments.php:36
+msgid "Cancel Reply"
+msgstr "Anuluj odpowiedź"
+
+#: header.php:16
+msgid "Skip to content"
+msgstr "Przejdź do treści"
+
+#: includes/configs/menu-locations.php:13
+msgid "Header"
+msgstr "Nagłówek"
+
+#: includes/configs/menu-locations.php:17
+msgid "Footer"
+msgstr "Stopka"
+
+#: includes/configs/theme-mods.php:15
+msgid "Copyright Notice"
+msgstr "Informacja o prawach autorskich"
+
+#: includes/configs/theme-mods.php:24
+msgid "Primary Color"
+msgstr "Kolor główny"
+
+#: includes/configs/theme-mods.php:30
+msgid "Secondary Color"
+msgstr "Kolor drugorzędny"
+
+#: includes/configs/theme-mods.php:48
+msgid "Fonts"
+msgstr "Czcionki"
+
+#: includes/configs/theme-mods.php:58
+msgid "Body Font"
+msgstr "Czcionka podstawowa"
+
+#: templates/post/post-details.php:20
+msgid "Read More"
+msgstr "Czytaj więcej"
+
+#: templates/comment.php:16
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#. translators: the post author.
+#: templates/post/post-details.php:10
+msgid "By %s"
+msgstr "Autor: %s"
+
+#: index.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przykro nam, ale niczego nie znaleziono. Proszę spróbować ponownie z innymi słowami kluczowymi."
+
+#: index.php:17
+msgid "Nothing found"
+msgstr "Niczego nie znaleziono"
+
+#: includes/configs/theme-mods.php:52
+msgid "Heading Font"
+msgstr "Czcionka nagłówków"
+
+#. Author of the theme
+msgid "HivePress"
+msgstr "HivePress"
+
+#. Author URI of the theme
+msgid "https://hivepress.io"
+msgstr "https://hivepress.io"
